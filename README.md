@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... 
 - Tintin++, www.abandonedrealms.com, linux, computer science
 - 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... my ARTT project
+- 💞️ I’m looking to collaborate on ... 
+https://github.com/animalprimate/ARTT
 - 📫 How to reach me ... gmancjb@gmail.com
 
 <!---
